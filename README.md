@@ -16,3 +16,7 @@ Import the RAG Chatbot.dbc file which includes the following notebooks:
 4 Chatbot GUI
 
 Instructions on what code to change for your own use are shown in the demo video.
+
+Crawl Web - https://api.apify.com/
+
+Youtube video : https://www.youtube.com/watch?v=p4qpIgj5Zjg&t=189s
